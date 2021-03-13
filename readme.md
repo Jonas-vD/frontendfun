@@ -1,6 +1,6 @@
 # Jonas van Doorn
 
-## een subtitel
+## kleine titel
 
 - list item1
 - list item2
