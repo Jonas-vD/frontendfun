@@ -1,12 +1,12 @@
 h1 {
-  color: orange;
-  font-size: 50px;
+  color: red;
+  font-size: 75px;
   margin-bottom: 25px;
 }
 
 h2 {
-  color: red;
-  margin-bottom: 25px;
+  color: blue;
+  margin-bottom: 75px;
 }
 img {
   margin-top: 50px;
@@ -17,5 +17,6 @@ img {
 
 p {
   background-color: seagreen;
+  font-size: 16px;
   width: 400px;
 }
